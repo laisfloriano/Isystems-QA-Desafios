@@ -1,0 +1,15 @@
+{
+  "name": "isystem-qa-teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose=true",
+    "start": "node mockFunctions.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.1.2"
+  }
+}
